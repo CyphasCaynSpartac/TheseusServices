@@ -46,6 +46,13 @@ Temporary Items
 # Project Files
 # =========================
 
+# Tools
+hemtt
+hemtt.exe
+tools/hemtt*.tar.gz*
+tools/hemtt*.zip*
+tools/temp
+
 # Release
 release/*
 *.cache
@@ -60,6 +67,3 @@ release/*
 *.pbo
 texHeaders.bin
 *.biprivatekey
-
-# Tools temp
-tools/temp
