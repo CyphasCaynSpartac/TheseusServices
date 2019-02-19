@@ -54,8 +54,7 @@ tools/hemtt*.zip*
 tools/temp
 
 # Release
-release/*
-*.cache
+releases/*
 
 # Swap
 *.swp
