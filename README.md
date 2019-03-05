@@ -16,7 +16,11 @@
     </a>
 </p>
 
-**Theseus Services** is a content mod providing a number of assets for Arma 3, aimed at Private Military Company game style, developed around the needs of [Theseus Incorporated](http://www.theseus-aegis.com) community. Starting out as a mod by *Pomigit*, then maintained by *BadHabitz* with a number of other community developers contributing, it is a re-brand of a highly successful **PG Services** mod.
+Welcome to the Spartan Tactical Group, a global leader in advanced security solutions. Visit us for more information @ http://spartac.net
+
+This modpack aims to expand the assets and resources available to contractors and operators of Spartan Tactical to provide the most immersive and custom experience possible for our community. This includes carefully curated selection of private military contractor theme clothing, gear, vehicles and aircraft. 
+
+Disclaimer: This mod was developed, curated and tailored for use solely within the Spartan Tactical community. While the mod is available for use by all we can not guarantee compatibility with other modifications, nor offer support. 
 
 The project is entirely **open-source** and all contributions are welcome. Feel free to maintain your own custom version, so long as the changes you make are open to the public in accordance with the GNU General Public License ([GPLv2](https://github.com/Theseus-Aegis/TheseusServices/blob/master/LICENSE)).
 
